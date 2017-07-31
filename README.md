@@ -1,4 +1,3 @@
-# wap-module-vue
 
 > this is a project of  wap module mixin one page
 
